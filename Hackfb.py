@@ -1,11 +1,11 @@
-#decompiled by PDM31
+#decompiled by MR.L4M3R
 import os, sys
-print '\x1b[1;32mMasukan ID: subscribe dan Password: MR-L4M3R untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
+print '\x1b[1;32mMasukan ID: Borot dan Password: indoxploit untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=+6285647761959&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+1(507)5790039&text=Assalamualaikum')
 
 
 def restart():
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'gasuka' and user == 'gelud':
+if sandi == 'Kacaw' and user == 'Tod':
     print 'Anda Telah Login'
     sys.exit
 else:
@@ -56,7 +56,7 @@ def jalan(z):
         time.sleep(0.1)
 
 
-logo = '\x1b[1;92m\n\xe2\x95\x94\xe2\x95\xa6\xe2\x95\x97\xe2\x94\x8c\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x8c\xe2\x94\x80   \xe2\x95\x94\xe2\x95\x90\xe2\x95\x97\xe2\x95\x94\xe2\x95\x97 \n \xe2\x95\x91\xe2\x95\x91\xe2\x94\x9c\xe2\x94\x80\xe2\x94\xa4\xe2\x94\x9c\xe2\x94\xac\xe2\x94\x98\xe2\x94\x9c\xe2\x94\xb4\xe2\x94\x90\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x95\xa0\xe2\x95\xa3 \xe2\x95\xa0\xe2\x95\xa9\xe2\x95\x97\n\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x9d\xe2\x94\xb4 \xe2\x94\xb4\xe2\x94\xb4\xe2\x94\x94\xe2\x94\x80\xe2\x94\xb4 \xe2\x94\xb4   \xe2\x95\x9a  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d \x1b[1;93mv1.7\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mMas Uzie\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mKunjungi\x1b[1;97m \x1b[1;96mwebsite \x1b[1;96mKami\n\x1b[1;93m* \x1b[1;97mwebsite  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://indoxploit.id/\x1b[0m\n'
+logo = '\x1b[1;92m\n\xe2\x95\x94\xe2\x95\xa6\xe2\x95\x97\xe2\x94\x8c\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x8c\xe2\x94\x80   \xe2\x95\x94\xe2\x95\x90\xe2\x95\x97\xe2\x95\x94\xe2\x95\x97 \n \xe2\x95\x91\xe2\x95\x91\xe2\x94\x9c\xe2\x94\x80\xe2\x94\xa4\xe2\x94\x9c\xe2\x94\xac\xe2\x94\x98\xe2\x94\x9c\xe2\x94\xb4\xe2\x94\x90\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x95\xa0\xe2\x95\xa3 \xe2\x95\xa0\xe2\x95\xa9\xe2\x95\x97\n\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x9d\xe2\x94\xb4 \xe2\x94\xb4\xe2\x94\xb4\xe2\x94\x94\xe2\x94\x80\xe2\x94\xb4 \xe2\x94\xb4   \xe2\x95\x9a  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d \x1b[1;93mv1.7\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mMR.L4M3R\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mKunjungi\x1b[1;97m \x1b[1;96mwebsite \x1b[1;96mKami\n\x1b[1;93m* \x1b[1;97mwebsite  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://indoxploit.id/\x1b[0m\n'
 
 def tik():
     titik = [
@@ -154,7 +154,7 @@ def menu():
         toket = open('login.txt', 'r').read()
     except IOError:
         os.system('reset')
-        print '\x1b[1;91m[!] Masukin token yang falid tod'
+        print '\x1b[1;91m[!] Token tidak ditemukan'
         os.system('rm -rf login.txt')
         time.sleep(1)
         login()
@@ -192,7 +192,7 @@ def menu():
 def pilih():
     zedd = raw_input('\x1b[1;91m-\xe2\x96\xba\x1b[1;97m ')
     if zedd == '':
-        print '\x1b[1;91m[!] Jangan kosong goblok'
+        print '\x1b[1;91m[!] Jangan kosong'
         pilih()
     else:
         if zedd == '1':
@@ -317,7 +317,7 @@ def menu_hack():
 def hack_pilih():
     hack = raw_input('\x1b[1;91m-\xe2\x96\xba\x1b[1;97m ')
     if hack == '':
-        print '\x1b[1;91m[!] Jangan kosong goblok'
+        print '\x1b[1;91m[!] Jangan kosong'
         hack_pilih()
     else:
         if hack == '1':
@@ -359,7 +359,7 @@ def mini():
         os.system('reset')
         print logo
         print 40 * '\x1b[1;97m\xe2\x95\x90'
-        print '\x1b[1;91m[ INFO ] Akun target harus berteman dengan akun lu dulu y anjing!'
+        print '\x1b[1;91m[ INFO ] Akun target harus berteman dengan akun anda dulu !'
         try:
             id = raw_input('\x1b[1;91m[+] \x1b[1;92mID Target \x1b[1;91m:\x1b[1;97m ')
             jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mTunggu sebentar \x1b[1;97m...')
@@ -560,7 +560,7 @@ def super():
     try:
         toket = open('login.txt', 'r').read()
     except IOError:
-        print '\x1b[1;91m[!] Masukin token yang falid tod'
+        print '\x1b[1;91m[!] Token tidak ditemukan'
         os.system('rm -rf login.txt')
         time.sleep(1)
         login()
@@ -578,7 +578,7 @@ def super():
 def pilih_super():
     peak = raw_input('\x1b[1;91m-\xe2\x96\xba\x1b[1;97m ')
     if peak == '':
-        print '\x1b[1;91m[!] Jangan kosong goblok'
+        print '\x1b[1;91m[!] Jangan kosong'
         pilih_super()
     else:
         if peak == '1':
