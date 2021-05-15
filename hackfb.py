@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'subscribe' and user == 'MR-L4M3R':
+if sandi == 'gasuka' and user == 'gelud':
     print 'Anda Telah Login'
     sys.exit
 else:
