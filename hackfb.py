@@ -17,7 +17,7 @@ user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
 if sandi == 'indoxploit' and user == 'Borot':
-    print 'Anda Telah Login'
+    print 'Login Sukses✓'
     sys.exit
 else:
     print 'Login GAGAL, Silahkan hubungi ADMIN'
